@@ -1,6 +1,4 @@
-# mars_data
-
-** Part 1: Mars News **
+# mars_data Part 1: Mars News
 
 1. Started by importing the necessary modules.
 
@@ -17,6 +15,15 @@
     
 ![part_1_titles_previews_list](https://github.com/aclima88/mars_data/assets/133547307/2cf9e6de-77f1-4a41-b8b2-5a98b9e5e21d)
     
+# mars_data Part 2: Mars Weather Analysys
+
+1. Started by importing the necessary modules.
+
+2. Used automated browsing to visit the mars news website.
+
+3. Created a Beautiful Soup object and use it to scrape the data in the HTML table. Also used pandas to read the html and store the data from the table into a DataFrame as a side exercise for fun.
+
+4. 
 
 
 
