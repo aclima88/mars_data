@@ -34,6 +34,7 @@
 ![part_2_examine_df_data_type_2](https://github.com/aclima88/mars_data/assets/133547307/281232e5-ec43-4206-acbe-e81678aabb0c)
 
 5.Analyzed the data.
+
     a. Used the data to find out how many months exist in Mars.
     
 <img width="370" alt="total_numbers_of_months_in_mars" src="https://github.com/aclima88/mars_data/assets/133547307/e3f16539-0a66-4cd2-bce6-72fe3590751a">
@@ -68,7 +69,7 @@
 
 6. Saved the mars_weather_data DataFrame as a CSV file and used code to automatically close the browser.
 
-**Notes**
+**Notes**:
 Bryant Griessel and I worked together on this module challange.
 I also used chatGPT and Google bard to help me clean up my code and problem solve syntax issues.
 
